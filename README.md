@@ -1,6 +1,6 @@
 """
 
-Senior-Honour-Project, Alasdair Pedley, December 2020
+Senior-Honours-Project, Alasdair Pedley, December 2020
 
 Firstly, note that the scripts cannot be run without the data. This can be downloaded from IAGOS CARIBIC
 Choose options: 
